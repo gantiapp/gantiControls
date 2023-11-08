@@ -1,0 +1,1 @@
+{"admserver":{"name":"gantiContainer"},"camparams":[],"camschedules":[],"admcomment":null,"command":"grep -E \"(\\.ERROR|\\.WARNING\\|\\.CRITICAL)\" \/var\/www\/html\/ganti\/var\/log\/${APP_ENV}.log | grep \"$(date +'%Y-%m-%d')\"","threshold":0,"name":"Ganti symfony logs","description":null,"roles":["ADMIN"],"exportVersion":"23.09.1","controlType":"command_manager"}
