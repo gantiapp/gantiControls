@@ -15,7 +15,7 @@ This dir will contain Ganti command controls :
 this dir will contain Ganti queries controls :
 
 - [GTI - controls summary.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20Control%20summary.json) : it will display your control stats with number of times where it generates an alert
-- [GTI - Database size control.json]([https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20Control%20summary.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20Database%20size%20control.json) : it will check your database size to add a schedule if database reached the threshold
+- [GTI - Database size control.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20Database%20size%20control.json) : it will check your database size to add a schedule if database reached the threshold
 - [GTI : Datasources KO.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20Datasources%20KO.json) : It will check all datasources and display all KO datasources (since 23.06 release)
 - [GTI - List controls where datasource param is used.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20List%20controls%20where%20datasource%20param%20is%20used.json) : it will list all controls used by a datasource filled by user via a param (since 23.04 release)
 - [GTI - number of controls by schedule type.json](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20number%20of%20controls%20by%20schedule%20type.json) : il will indicate the number of controls by schedule type. It takes in parameter number of retention days (since 23.06.1 release)
