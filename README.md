@@ -88,6 +88,6 @@ This directory contains Ganti **query controls**:
   Displays all controls and schedules where a given table (via parameter) is used.  
   _Available since `24.10`_
 
-- 🔍 [GTI - Search in controls](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20search%20in%20controls.json)
-  Display all controls and sql which contains a table name or a business object
+- 🔍 [GTI - Search in controls](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20search%20in%20controls.json)  
+  Displays all controls and sql which contains a datasource and/or a table and/or a business object.  
   _Available since `24.10`_
