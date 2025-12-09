@@ -64,11 +64,11 @@ This directory contains Ganti **query controls**:
 
 - 📆 [GTI – Schedules of the Day with Execution Info](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20schedules%20of%20the%20day%20with%20execution%20infos.json)  
   Displays daily schedules with execution status. Includes `"NOT YET EXECUTED"` or `"FAILED"` where appropriate.  
-  _Available since `23.09.1`_
+  _Available since `25.07`_
 
 - ❗ [GTI – Failed Schedules](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20failed%20schedules.json)  
   Lists all failed schedules of the day.  
-  _Available since `25.04`_
+  _Available since `25.07`_
 
 - 📤 [GTI – Schedules Sent to User](https://github.com/gantiapp/gantiControls/blob/main/ganti/QueryManager/GTI%20-%20schedules%20sent%20to%20user.json)  
   Shows schedules assigned to specific users (e.g. during replacements or vacations).
